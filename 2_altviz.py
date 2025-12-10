@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 time = np.linspace(0, 100, 101)
+print(time)
 
 altitude = np.zeros(101)
 
